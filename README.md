@@ -225,3 +225,96 @@ This repository will be continuously updated as additional internship tasks are 
 **Sanvi Rai**
 
 JourneyBuddy Internship — 2026
+---
+
+## Task 04 – Docker Containerization
+
+Containerized a FastAPI application using Docker.
+
+### Key Concepts
+- Dockerfile
+- Docker image
+- Docker container
+- Port mapping
+- Environment variables
+- Health endpoint
+
+The container was successfully built and tested locally.
+
+---
+
+## Task 05 – Google Cloud Platform
+
+Designed a Google Cloud Storage architecture with separate public and private resources.
+
+### Key Concepts
+- Cloud Storage
+- Bucket organization
+- IAM
+- Least-privilege access
+- Public assets
+- Private authenticated documents
+
+---
+
+## Task 06 – Pinecone & Vector Database
+
+Implemented a semantic retrieval demonstration using vector embeddings and cosine similarity.
+
+### Key Concepts
+- Vector databases
+- Embeddings
+- Semantic search
+- Similarity search
+- Metadata
+- Top-K retrieval
+
+---
+
+## Task 07 – LangChain Framework
+
+Designed a dynamic context-augmented question-answering chain.
+
+### Pipeline
+
+Question → Retriever → Context → Prompt → Language Model → Answer
+
+### Key Concepts
+- Dynamic context
+- Retrieval
+- Prompt templates
+- Context injection
+- Answer generation
+
+---
+
+## Task 08 – Google ADK
+
+Designed a state-driven asynchronous client-server interaction flow.
+
+### Key Concepts
+- UI events
+- Application state
+- Async network requests
+- Loading state
+- Success state
+- Error state
+- UI re-rendering
+
+---
+
+## Task 09 – Skills Agent AI
+
+Implemented a conceptual autonomous tool-calling agent.
+
+### Agent Loop
+
+Plan → Act → Observe → Evaluate → Repeat → Final Answer
+
+### Key Concepts
+- Tool selection
+- Tool execution
+- Observation
+- Evaluation
+- Multi-step reasoning
+- Response synthesis
